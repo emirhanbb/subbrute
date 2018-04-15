@@ -1,7 +1,8 @@
 
-subdomain-bruteforcer (SubBrute)
+Alt alan adı bulma aracı
 =====================
-SubBrute is a community driven project with the goal of creating the fastest, and most accurate subdomain enumeration tool.  Some of the magic behind SubBrute is that it uses open resolvers as a kind of proxy to circumvent DNS rate-limiting (https://www.us-cert.gov/ncas/alerts/TA13-088A).  This design also provides a layer of anonymity, as SubBrute does not send traffic directly to the target's name servers.
+Web sitelerinin alt alan adlarını bulup listeleyen çok güzel bir araçtır. Aşağıda nasıl kullanıldığı ingilizce olarak yazmaktadır, ben yine de buraya ekliyorum. 
+./subbrute.py siteadresi.com
 
 Whats new in v2.1?
 =====================
